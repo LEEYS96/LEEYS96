@@ -2,7 +2,6 @@
 ## I'm Yeseul Lee 👩🏻‍💻
 
 - 🏃‍♀️Software Developer, passionate for what I love
-- 💬 Check my [resume](https://leeys96.github.io/about)
 <!--
 **LEEYS96/LEEYS96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
